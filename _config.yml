@@ -1,9 +1,9 @@
 title: Thymeleaf Lesson
-description: "August 2023 to June 2024"
+description: "Thymeleaf Lesson"
 owner_name: Ryan McWeeny
 github_username: Ryanrob327
 github_repo: "Thymeleaf-lesson"
-baseurl: "/thymeleaf-lesson"
+baseurl: "/Thymeleaf-lesson"
 remote_theme: jekyll/minima
 minima:
   social_links:
